@@ -2,19 +2,13 @@
 
 <div align="center">
 
-![Typing](https://badgen.net/npm/types/prop-types)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/78f89ea8-00c2-4966-81c6-c601cf7f81dd/deploy-status)](https://app.netlify.com/sites/brave-date/deploys)
-[![Demo on Netlify](https://badgen.net/badge/icon/Netlify/green?icon=slack&label=brave-date)](https://brave-date.netlify.app/)
-[![Tag](https://badgen.net/github/tag/brave-date/brave-date)](https://github.com/brave-date/brave-date/releases/tag/v0.2.0)
-[![Docs](https://badgen.net/badge/icon/docs?icon=wiki&label)](https://brave-date.github.io/brave-date/)
+
 
 </div>
 
 <div align="center">
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-blue.svg?style=flat)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 
 </div>
 
