@@ -1,4 +1,4 @@
-# Find My Roomies
+# Find My Roomie
 
 <div align="center">
 
