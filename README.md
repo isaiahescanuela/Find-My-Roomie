@@ -18,7 +18,7 @@
 
 </div>
 
-![Brave Date.](./docs/static/images/Banner.png)
+![Find My Roomie.](./docs/static/images/Banner.png)
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@
 
 ## Introduction
 
-**Brave Date** is a **fully featured** Tinder clone developed using open source tools from scratch. It's designed to become the ultimate Tinder clone. It is **user-friendly** with a clean interface that is easy to navigate.
+**Find My Roomie** is a **fully featured** Tinder clone developed using open source tools from scratch. It's designed to become the ultimate Tinder clone. It is **user-friendly** with a clean interface that is easy to navigate.
 
 As well as being **feature-rich**, **Brave Date** is also **fully responsive**, meaning it will work seamlessly on a wide range of devices. So whether you're dating on your desktop or your mobile, you'll always have a great experience.
 
@@ -47,9 +47,9 @@ As well as being **feature-rich**, **Brave Date** is also **fully responsive**, 
     
 ![OnBoarding Page.](./docs/static/images/onboarding-page.png)
     
-* Tinder Cards.
+* Find My Roomie Cards.
     
-![Tinder Cards.](./docs/static/images/tinder-cards.png)
+![Find My Roomie Cards.](./docs/static/images/tinder-cards.png)
 
 * Keyboard shortcuts.
     
@@ -63,7 +63,7 @@ As well as being **feature-rich**, **Brave Date** is also **fully responsive**, 
     
 ![Sending and receiving images.](./docs/static/images/snd-rcv-img.gif)
 
-* Emojies support.
+* Emoji support.
     
 ![Emojies support.](./docs/static/images/emojies.png)
  
