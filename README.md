@@ -35,7 +35,7 @@
 
 **Find My Roomie** is a modern roommate-matching app designed to help college students find compatible roommates based on personality, lifestyle, and habits ensuring a smooth and enjoyable living experience. Unlike traditional roommate finding methods, Find My Roomie prioritizes safety, compatibility, and affordability. With the combination of of free background checks, institutional collaboration, self-matching, and free unlimited messaging positions Find My Roomie as a leader in the roommate-matching space, catering to students who value both security and a user-friendly experience.
 
-As well as being **feature-rich**, **Find My Roomie** is also **fully responsive**, meaning it will work seamlessly on a wide range of devices. So whether you're dating on your desktop or your mobile, you'll always have a great experience.
+As well as being **feature-rich**, **Find My Roomie** is focused on personality, lifestyle, and habits to ensure a smooth living experience for all users. P
 
 ## Supported Features
 
