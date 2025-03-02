@@ -12,7 +12,7 @@
 
 </div>
 
-![Find My Roomie.](.docs/static/images/findmyroomie.png)
+![Find My Roomie.](./docs/static/images/findmyroomie.png)
 
 
 ## Table of Contents
