@@ -36,7 +36,7 @@ As well as being **feature-rich**, **Find My Roomie** is also **fully responsive
 
 * Landing Page.
     
-![Landing Page.](./docs/static/images/landing-page.png)
+![Landing Page.](./docs/static/images/IMG_3475.jpg)
 
 * OnBoarding Page.
     
@@ -138,21 +138,3 @@ You can refer to [the official documentation](https://brave-date.github.io/brave
 ## License
 
 This project and the accompanying materials are made available under the terms and conditions of the [`MIT LICENSE`](https://github.com/brave-date/brave-date/blob/main/LICENSE).
-
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/wiseaidev"><img src="https://avatars.githubusercontent.com/u/62179149?v=4?s=100" width="100px;" alt="Mahmoud Harmouch"/><br /><sub><b>Mahmoud Harmouch</b></sub></a><br /><a href="#maintenance-wiseaidev" title="Maintenance">🚧</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
