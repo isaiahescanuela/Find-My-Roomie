@@ -12,7 +12,7 @@
 
 </div>
 
-![Find My Roomie.](./Users/isaiahescanuela/Downloads/Findmyroomie.PNG)
+![Find My Roomie.](.findmyroomie.pdf)
 
 
 ## Table of Contents
