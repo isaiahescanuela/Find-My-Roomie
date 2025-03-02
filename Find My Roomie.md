@@ -12,7 +12,8 @@
 
 </div>
 
-![Find My Roomie.](./docs/static/images/Banner.png)
+![Find My Roomie.](./Users/isaiahescanuela/Downloads/Findmyroomie.PNG)
+
 
 ## Table of Contents
 
