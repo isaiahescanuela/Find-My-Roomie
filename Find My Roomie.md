@@ -17,13 +17,13 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Supported Features](#supported-features)
-- [Core Libraries](#core-libraries)
-- [Running locally with NPM](#running-locally-with-npm)
-- [Deployment](#deployment)
-- [Documentation](#documentation)
-- [License](#license)
+- [The Problem](#the-problem)
+- [The Solution](#supported-features)
+- [What we Offer](#core-libraries)
+- [Customer Benefits](#running-locally-with-npm)
+- [Why are we unique?](#deployment)
+- [Our Team](#documentation)
+- [license](#license)
 - [Contributors](#contributors)
 
 ## Introduction
